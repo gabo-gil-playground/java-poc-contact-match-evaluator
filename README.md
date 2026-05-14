@@ -313,8 +313,12 @@ When multiple contacts share the same ID, all are excluded:
 
 ## Author
 
-- [Gabriel Gil](https://www.linkedin.com/in/gabogil/)
+- [Gabo](https://www.linkedin.com/in/gabogil/)
 
 ## GitHub
 
 - [gabo-gil-playground](https://github.com/gabo-gil-playground)
+
+## Site
+
+- [Gabo](https://gabogil.com/)
